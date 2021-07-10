@@ -1,0 +1,98 @@
+{
+  "chuqin":{
+    "code": 200,
+    "msg": "成功",
+    "size": 4,
+    "data": {
+      "allClockInWorkerNum": "3",
+      "clockInUserNum": "7",
+      "allClockInManagerNum": "4",
+      "clockRate": "58.33"
+    }
+  },
+  "gongzhong": {
+    "code": 200,
+    "msg": "成功",
+    "size": 2,
+    "data": {
+      "workerNumList": [
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "jobNameList": [
+        "电工",
+        "木工",
+        "钢筋工",
+        "混凝土工",
+        "砖瓦工",
+        "水暖工",
+        "涂料工"
+      ]
+    }
+  },
+  "daogang": {
+    "code": 200,
+    "msg": "成功",
+    "size": 7,
+    "data": [
+      {
+        "dateTime": "2021-05-04",
+        "total": 0
+      },
+      {
+        "dateTime": "2021-05-05",
+        "total": 0
+      },
+      {
+        "dateTime": "2021-05-06",
+        "total": 1
+      },
+      {
+        "dateTime": "2021-05-07",
+        "total": 0
+      },
+      {
+        "dateTime": "2021-05-08",
+        "total": 1
+      },
+      {
+        "dateTime": "2021-05-09",
+        "total": 2
+      },
+      {
+        "dateTime": "2021-05-10",
+        "total": 7
+      }
+    ]
+  },
+  "zhongyao": {
+    "code": 0,
+    "data": [
+      {
+        "afterWorkTime": "2020-01-03",
+        "facePic": "图片",
+        "job": "总工程师",
+        "name": "张国荣",
+        "starkWorkTime": "2年"
+      }
+    ],
+    "msg": "成功",
+    "size": 2
+  },
+  "zongrenshu": {
+    "code": 0,
+    "data": {
+      "adminUserNum": 9,
+      "realNameNum": 8,
+      "total": 27,
+      "workerNum": 10
+    },
+    "msg": "string",
+    "size": 0
+  }
+}
